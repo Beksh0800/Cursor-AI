@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Жақсы Әдет</string>
+    <string name="no_habits">Пока нет привычек. Добавьте свою первую привычку!</string>
+    <string name="add_habit">Добавить привычку</string>
+    <string name="habit_details">Детали привычки</string>
+    <string name="mark_complete">Отметить выполненным</string>
+    <string name="current_streak">Текущая серия</string>
+    <string name="total_completions">Всего выполнено</string>
+    <string name="history">История</string>
+    <string name="no_completions">Пока нет выполнений</string>
+    <string name="back">Назад</string>
+</resources> 

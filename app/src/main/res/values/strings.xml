@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jaqsy Ádet</string>
+    <string name="no_habits">No habits yet. Add your first habit!</string>
+    <string name="add_habit">Add Habit</string>
+    <string name="habit_details">Habit Details</string>
+    <string name="mark_complete">Mark Complete</string>
+    <string name="current_streak">Current Streak</string>
+    <string name="total_completions">Total Completions</string>
+    <string name="history">History</string>
+    <string name="no_completions">No completions yet</string>
+    <string name="back">Back</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Жақсы Әдет</string>
+    <string name="no_habits">Әлі әдеттер жоқ. Алғашқы әдетіңізді қосыңыз!</string>
+    <string name="add_habit">Әдет қосу</string>
+    <string name="habit_details">Әдет мәліметтері</string>
+    <string name="mark_complete">Орындалды деп белгілеу</string>
+    <string name="current_streak">Ағымдағы жолақ</string>
+    <string name="total_completions">Барлық орындалулар</string>
+    <string name="history">Тарих</string>
+    <string name="no_completions">Әлі орындалулар жоқ</string>
+    <string name="back">Артқа</string>
+</resources> 
